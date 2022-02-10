@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+body{
+    overflow: hidden;
+    width: 100vw;
+    height: 100vh;
+}
+.upperSvg{
+    background-color: #26de81;
+}
+.mainDiv{
+    background-color: #26de81;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+.mainDiv h1{
+    font-size: 5.5rem;
+    text-transform: uppercase;
+}
+.mainDiv p{
+    font-size: 1.5rem;
+}
+
+
+
+
+
+
+
